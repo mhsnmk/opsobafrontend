@@ -16427,29 +16427,6 @@ opn@^5.5.0:
   dependencies:
     is-wsl "^1.1.0"
 
-opsoba-sdk@^2.4.7:
-  version "2.4.7"
-  resolved "https://registry.yarnpkg.com/opsoba-sdk/-/opsoba-sdk-2.4.7.tgz#cba595094716e9ed844dda02191101bb7d091f88"
-  integrity sha512-nWKo3aAzcBJZ/2khZlfGLSJxvK4vb0r4ASNLGn/zaGlxsz5nIXsllGHTFW5JBsdoIPlw5ezuNZLOobiBXbbcRw==
-  dependencies:
-    "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
-opsoba-uikit@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/opsoba-uikit/-/opsoba-uikit-1.1.0.tgz#d8167df08ba135e0d9f6cd82d8e227c70f71cbac"
-  integrity sha512-CZgZ4WoAECABeIIS+4UztC/E9c69j0Gh8HgM8/+QMblygeWZWRmXFT/eS6sxWd4BiKSn68MzmNxry9rfrjIMoQ==
-  dependencies:
-    "@popperjs/core" "^2.9.2"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-popper "^2.2.5"
-    styled-system "^5.1.5"
 
 optimism@^0.16.0:
   version "0.16.1"
